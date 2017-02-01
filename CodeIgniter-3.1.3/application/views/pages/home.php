@@ -1,0 +1,1 @@
+J'affiche le texte qui est dans application/views/pages/home.php
